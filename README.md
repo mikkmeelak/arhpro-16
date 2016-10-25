@@ -9,11 +9,10 @@ Toomas Tammis, Paco Ulman, Mikk Meelak
 ## Ülesanded:
 
 1. **Funktsioonid** - Ülesandes tuleb kasutada programmeerimises levinud märksõnu. Funktsioone on kokku 4tk. Antud märksõnu saab töö käigus ise tõlgendada ja kasutada vastavalt teosele.
-
-+ nädal 1 – kordused
-+ nädal 2 – juhuslikkus
-+ nädal 3 – tihedus
-+ nädal 4 – feedback loop
-+ nädal 5 – omadus
+  + nädal 1 – kordused
+  + nädal 2 – juhuslikkus
+  + nädal 3 – tihedus
+  + nädal 4 – feedback loop
+  + nädal 5 – omadus
 
 2. **Omadus** – Kirjeldada üks omadus eelnevalt valitud hoone kohta. Omadus peab olema ühesõnaline ja eelistavalt mitte omama kindlat visuaalset kuvandit. Kuvandi peab töö käigus ise otsima ja kujutama digitaalse animatsioonina. Soovitavalt on valmiv töö interaktiivne (klahvi vajutus, hiire liigutamine jne). Hea oleks kui ülesandes on kasutatud vähemalt nelja eelpool nimetatud märksõna.
