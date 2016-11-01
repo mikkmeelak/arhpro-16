@@ -1,7 +1,7 @@
 # Arhitektuurne projekteerimine I
 
-Eesti Kunstiakadeemia
-Semestri teine pool, 2016
+Eesti Kunstiakadeemia  
+Semestri teine pool, 2016  
 Toomas Tammis, Paco Ulman, Mikk Meelak
 
 Ülesanded on digitaalsed ja koodipõhised. Graafilised tööd tehakse Processing 3 nimelises programmis (https://processing.org/). Tulemuseks on reeglipõhised generatiivselt üles ehitatud graafilised teosed või valitud kaadrid animatsioonist. Semestri lõpuks valmib 5 programmipõhist teost.
