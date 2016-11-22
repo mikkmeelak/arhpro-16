@@ -13,6 +13,6 @@ Toomas Tammis, Paco Ulman, Mikk Meelak
   + nädal 2 – random
   + nädal 3 – noise
   + nädal 4 – walker
-  + nädal 5 – feedback loop
+  + nädal 5 – interaktiivsus
 
 2. **Omadus** – Kirjeldada üks omadus eelnevalt valitud hoone kohta. Omadus peab olema ühesõnaline ja eelistavalt mitte omama kindlat visuaalset kuvandit. Kuvandi peab töö käigus ise otsima ja kujutama digitaalse animatsioonina. Soovitavalt on valmiv töö interaktiivne (klahvi vajutus, hiire liigutamine jne). Hea oleks kui ülesandes on kasutatud vähemalt nelja eelpool nimetatud märksõna.
